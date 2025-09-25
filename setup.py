@@ -10,7 +10,7 @@ setup(
     description='A simple greeting package by Abdullha',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/abdullha/abdullha',
+    url='https://github.com/DARK-SIRIS/Abdullha',
     classifiers=[
         'Programming Language :: Python :: 3',
         'Operating System :: OS Independent',
