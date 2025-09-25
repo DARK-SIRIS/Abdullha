@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     install_requires=[],
     author='Abdullha',
-    author_email='abdullha@example.com',
+    author_email='xylonax1590@gmail.com',
     description='A simple greeting package by Abdullha',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
